@@ -30,7 +30,7 @@ gem "jbuilder"
 gem "redis", ">= 4.0.1"
 
 gem 'friendly_id', '~> 5.5.1'
-gem 'yard', '~> 0.9.34'
+gem 'yard', '~> 0.9.35'
 
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
